@@ -49,4 +49,4 @@ yang diperoleh dengan
 ![](https://live.staticflickr.com/65535/52138328472_ed03a19955_w.jpg)
 ```
 
-yang merupakan salah satu ukuran dari foto [roti-opa-fuer-adik](https://www.flickr.com/photos/195637519@N06/52104006463).
+yang merupakan salah satu ukuran dari foto [roti-opa-fuer-adik](https://www.flickr.com/photos/195637519@N06/52138328472).
