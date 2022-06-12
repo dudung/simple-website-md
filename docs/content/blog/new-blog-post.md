@@ -9,9 +9,9 @@ Local image can be inserted using its relative path
 
 which is produced using
 
-```
+<pre>
 ![](../../img/swm-icon.png)
-```
+</pre>
 
 since the directory structure is as follow
 
@@ -45,8 +45,8 @@ Remote image can be inserted using its url
 
 yang diperoleh dengan
 
-```
+<pre>
 ![](https://live.staticflickr.com/65535/52138328472_ed03a19955_w.jpg)
-```
+</pre>
 
 yang merupakan salah satu ukuran dari foto [roti-opa-fuer-adik](https://www.flickr.com/photos/195637519@N06/52138328472).
