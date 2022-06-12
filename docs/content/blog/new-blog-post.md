@@ -13,7 +13,7 @@ which is produced using
 ![](../../img/swm-icon.png)
 ```
 
-since the structure is as follow
+since the directory structure is as follow
 
 ```
 \
