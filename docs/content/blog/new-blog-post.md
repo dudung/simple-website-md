@@ -9,7 +9,7 @@ Local image can be inserted using its relative path
 
 which is produced using
 
-```markdown
+```
 ![](../../img/swm-icon.png)
 ```
 
@@ -45,7 +45,7 @@ Remote image can be inserted using its url
 
 yang diperoleh dengan
 
-```markdown
+```
 ![](https://live.staticflickr.com/65535/52138328472_ed03a19955_w.jpg)
 ```
 
